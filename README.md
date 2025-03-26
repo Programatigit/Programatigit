@@ -8,10 +8,11 @@
 
 ## Conhecimento nas linguagens:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sara-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sara-C" height="30" width="40" src="https://avatars.githubusercontent.com/u/25699522?s=200&v=4">
+  <img align="center" alt="Sara-JS" title="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sara-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sara-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sara-C" title="C" height="30" width="40" src="https://avatars.githubusercontent.com/u/25699522?s=200&v=4">
+  <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 </div>
 <br>
 
